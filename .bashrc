@@ -1,3 +1,4 @@
+#!/bin/bash
 #############################################
 #                                           #
 #  MIDDLEWARE - Quick Commands              #
